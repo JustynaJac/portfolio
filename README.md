@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/JustynaJac/portfolio/10a8f39cfb3e6a463de928de7be41a15c3f9b93a/screens/Baner%20portfolio.jpg)
+![](https://raw.githubusercontent.com/JustynaJac/portfolio/20a567ce60eda7d6473bcf0998ddfa6a4439299f/screens/Baner%20portfolio%20ziele%C5%84.jpg)
 
 ## About me
 Hi :wave: My name is Justyna Jackiewicz.
