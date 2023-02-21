@@ -102,20 +102,33 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 ## My projects
 :white_square_button: **Test cases**
 * Test cases for site [Scout](https://scouts-test.futbolkolektyw.pl/pl) made during portfolio challenge mentoring by DareIT 
+
 [LINK to test cases 1](https://docs.google.com/spreadsheets/d/1GCCXNPcKsoPUBCMYPSMUOpLdvg_PyNnJ/edit#gid=839583224) ;
 [LINK to test cases 2](https://docs.google.com/spreadsheets/d/1AAmcIa7zSUd9py2PaPOrjbgemBezKZJ3/edit?usp=share_link&ouid=103264474520704327668&rtpof=true&sd=true)
 
-* Test cases for mobile application *pick.eat.up* made during portfolio challenge mentoring by DareIT [LINK to test cases](https://docs.google.com/spreadsheets/d/1y0K49Haq27BUf7IkJgaE6jj7aj6kVhOM/edit?usp=share_link&ouid=103264474520704327668&rtpof=true&sd=true)
+* Test cases for mobile application *pick.eat.up* made during portfolio challenge mentoring by DareIT 
 
-* Test cases for site [Go IT Testowanie HTML](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917&ssid=63e4bd4ec5fccd82dcd3b1d3&cookie_id=46587ab986cf434f9b21f8cf54b740e7&block_id=63d12d382efdb72f32ad1edd&leeloo_account_id=63e4bd4ec5fccd7ad4d3b1ce) made in Testrail during QA Maraton conducted by Goit [LINK to test cases](https://docs.google.com/document/d/1p3n-Mu-IxKCA5cd9Qee9PJ2TWWJLWR3fc_CmEBVsKD4/edit?usp=share_link)
+[LINK to test cases](https://docs.google.com/spreadsheets/d/1y0K49Haq27BUf7IkJgaE6jj7aj6kVhOM/edit?usp=share_link&ouid=103264474520704327668&rtpof=true&sd=true)
+
+* Test cases for site [Go IT Testowanie HTML](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917&ssid=63e4bd4ec5fccd82dcd3b1d3&cookie_id=46587ab986cf434f9b21f8cf54b740e7&block_id=63d12d382efdb72f32ad1edd&leeloo_account_id=63e4bd4ec5fccd7ad4d3b1ce) made in Testrail during QA Maraton conducted by Goit
+
+[LINK to test cases](https://docs.google.com/document/d/1p3n-Mu-IxKCA5cd9Qee9PJ2TWWJLWR3fc_CmEBVsKD4/edit?usp=share_link)
 
 :white_square_button: **Bugs**
-* Bugs on site [Scout](https://scouts-test.futbolkolektyw.pl/pl) made during portfolio challenge mentoring by DareIT  [LINK to bugs](https://docs.google.com/spreadsheets/d/1uu-Nfliq6UwBACkz586v2ltJNb2WSb_q/edit?usp=share_link&ouid=103264474520704327668&rtpof=true&sd=true) ; [LINK to bugs report ](https://docs.google.com/spreadsheets/d/15diIoCJH5uVvKA3STjQALmZZoe-7LPNg1GsM2xaEkdw/edit?usp=share_link)
+* Bugs on site [Scout](https://scouts-test.futbolkolektyw.pl/pl) made during portfolio challenge mentoring by DareIT  
 
-* Bugs on mobile app olx [LINK to bugs](https://docs.google.com/spreadsheets/d/1F3OltshEVVxs_bxf95M7vX97dPAOfj84/edit#gid=418525387)
+[LINK to bugs](https://docs.google.com/spreadsheets/d/1uu-Nfliq6UwBACkz586v2ltJNb2WSb_q/edit?usp=share_link&ouid=103264474520704327668&rtpof=true&sd=true) ; [LINK to bugs report ](https://docs.google.com/spreadsheets/d/15diIoCJH5uVvKA3STjQALmZZoe-7LPNg1GsM2xaEkdw/edit?usp=share_link)
 
-* Bug on [Go IT Testowanie HTML](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917&ssid=63e4bd4ec5fccd82dcd3b1d3&cookie_id=46587ab986cf434f9b21f8cf54b740e7&block_id=63d12d382efdb72f32ad1edd&leeloo_account_id=63e4bd4ec5fccd7ad4d3b1ce) site [LINK to bug](https://justboat.atlassian.net/jira/software/projects/GOIT/boards/2) made in Jira during QA Maraton conducted by Goit 
+* Bugs on mobile app olx 
+
+[LINK to bugs](https://docs.google.com/spreadsheets/d/1F3OltshEVVxs_bxf95M7vX97dPAOfj84/edit#gid=418525387)
+
+* Bug on [Go IT Testowanie HTML](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917&ssid=63e4bd4ec5fccd82dcd3b1d3&cookie_id=46587ab986cf434f9b21f8cf54b740e7&block_id=63d12d382efdb72f32ad1edd&leeloo_account_id=63e4bd4ec5fccd7ad4d3b1ce) site made in Jira during QA Maraton conducted by Goit 
+
+[LINK to bug](https://justboat.atlassian.net/jira/software/projects/GOIT/boards/2)
 
 :white_square_button: **SQL**
-* SQL- tasks made during portfolio challenge mentoring by DareIT [LINK to SQL tasks](https://docs.google.com/document/d/12xZZkjc8H5H3HmJNywY6TZvNIBp-W897xHJowaqo9Hk/edit?usp=share_link)
+* SQL- tasks made during portfolio challenge mentoring by DareIT 
+
+[LINK to SQL tasks](https://docs.google.com/document/d/12xZZkjc8H5H3HmJNywY6TZvNIBp-W897xHJowaqo9Hk/edit?usp=share_link)
 
