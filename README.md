@@ -16,88 +16,88 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 📫 E-mail **justyna.jackiewicz@live.com**
 
 ## Courses
-:white_circle: Zostań Testerem Manualnym (Dare IT)
+* Zostań Testerem Manualnym (Dare IT)
 
-:white_circle: Maraton QA dla początkujących (GoIT)
+* Maraton QA dla początkujących (GoIT)
 
-:white_circle: Szkolenie SQL w 120 min (kursysql.pl)
+* Szkolenie SQL w 120 min (kursysql.pl)
 
-:white_circle: Podstawy manualnego testowania oprogramowania (Udemy)
+* Podstawy manualnego testowania oprogramowania (Udemy)
 
-:white_circle: Postman od podstaw - testowanie REST API (Udemy)
+* Postman od podstaw - testowanie REST API (Udemy)
 
 ## Certificates
 
 
 ## Tools
-:white_circle: [Jira](https://www.atlassian.com/software/jira0) - bug tracker
+* [Jira](https://www.atlassian.com/software/jira0) - bug tracker
 
-:white_circle: [TestRail]( https://www.gurock.com/testrail/) - test cases management
+* [TestRail]( https://www.gurock.com/testrail/) - test cases management
 
-:white_circle: [Slack]( https://slack.com/), [Telegram](https://web.telegram.org/k)- for communication within the team
+* [Slack]( https://slack.com/), [Telegram](https://web.telegram.org/k)- for communication within the team
 
-:white_circle: Chrome DevTools - for testing and to improve bug reports
+* Chrome DevTools - for testing and to improve bug reports
 
-:white_circle: [Xampp](https://www.apachefriends.org/pl/index.html) - relational database management system
+* [Xampp](https://www.apachefriends.org/pl/index.html) - relational database management system
 
-:white_circle: [Postman](https://www.postman.com/)- testing tool for REST API
+* [Postman](https://www.postman.com/)- testing tool for REST API
 
-:white_circle: GitHub
+* GitHub
 
-:white_circle: [Awesome screenshots](https://www.techsmith.com/jing-tool.html) - screenshot and Screen Recorder
+* [Awesome screenshots](https://www.techsmith.com/jing-tool.html) - screenshot and Screen Recorder
 
-:white_circle: [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - exploratory testing assistant for Chrome and Firefox
+* [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - exploratory testing assistant for Chrome and Firefox
 
 ## Tech skills
-:white_circle: Software testing
+* Software testing
 
-:white_circle: Creating test cases
+* Creating test cases
 
-:white_circle: Reporting bugs
+* Reporting bugs
 
-:white_circle: DevTools
+* DevTools
 
-:white_circle: SQL
+*SQL
 
-:white_circle: Creating diagrams and decision tables
+* Creating diagrams and decision tables
 
 
 ## Soft skills
-:white_circle: Research
+* Research
 
-:white_circle: Creative thinking
+* Creative thinking
 
-:white_circle: Teamwork skills
+* Teamwork skills
 
-:white_circle: Adaptability
+* Adaptability
 
-:white_circle: Empathetic listening
+* Empathetic listening
 
-:white_circle: Positive attitude
+* Positive attitude
 
-:white_circle: Motivated
+* Motivated
 
-:white_circle: Growth mediset
+* Growth mediset
 
 ## Webinars
-:white_circle: [Sprawdź, czy testowanie jest dla Ciebie. Bezpłatna lekcja próbna](https://www.youtube.com/watch?v=i0odfiW_VAo&t=1544s)
+* [Sprawdź, czy testowanie jest dla Ciebie. Bezpłatna lekcja próbna](https://www.youtube.com/watch?v=i0odfiW_VAo&t=1544s)
 
-:white_circle: [Wprowadzenie do testowania API Postman Webinarium](https://www.youtube.com/watch?v=9qAZaI-p4Gks)
+* [Wprowadzenie do testowania API Postman Webinarium](https://www.youtube.com/watch?v=9qAZaI-p4Gks)
 
-:white_circle: [Niezbędnik początkującego testera oprogramowania. Bezpłatna lekcja próbna
+* [Niezbędnik początkującego testera oprogramowania. Bezpłatna lekcja próbna
 ](https://www.youtube.com/watch?v=bJ1t3tgpLZc&t=1899s)
 
-:white_circle: [Dzień z życia zespołu scrumowego. Czyli jak pracuje się w zwinnym środowisku?](https://www.youtube.com/watch?v=nTEtrlprl4g)
+* [Dzień z życia zespołu scrumowego. Czyli jak pracuje się w zwinnym środowisku?](https://www.youtube.com/watch?v=nTEtrlprl4g)
 
 
 ## IT groups on Facebook I follow
-:white_circle: Dare IT Community
+* Dare IT Community
 
-:white_circle: Tester oprogramowania - wsparcie na starcie
+* Tester oprogramowania - wsparcie na starcie
 
-:white_circle: Testowanie oprogramowania - jak nim zostać?
+* Testowanie oprogramowania - jak nim zostać?
 
-:white_circle: Tester oprogramowania - PRACA, Ogłoszenia
+* Tester oprogramowania - PRACA, Ogłoszenia
 
 ## My projects
 :white_square_button: **Test cases**
