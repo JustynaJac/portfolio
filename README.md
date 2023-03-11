@@ -55,8 +55,6 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 
 * Reporting bugs
 
-* DevTools
-
 * SQL
 
 * Creating diagrams and decision tables
