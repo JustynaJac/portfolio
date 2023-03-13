@@ -22,11 +22,11 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 
 * Szkolenie SQL w 120 min (kursysql.pl)
 
+## Certificates
+
 * Podstawy manualnego testowania oprogramowania (Udemy)
 
 * Postman od podstaw - testowanie REST API (Udemy)
-
-## Certificates
 
 
 ## Tools
