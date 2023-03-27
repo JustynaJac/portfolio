@@ -18,6 +18,8 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 ## Courses
 * Zostań Testerem Manualnym (Dare IT)
 
+* Maraton HTML+CSS by Goit
+
 * Maraton QA dla początkujących (GoIT)
 
 * Szkolenie SQL w 120 min (kursysql.pl)
@@ -126,7 +128,12 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 [LINK to bug](https://justboat.atlassian.net/jira/software/projects/GOIT/boards/2)
 
 :white_square_button: **SQL**
-* SQL- tasks made during portfolio challenge mentoring by DareIT 
+* SQL - tasks made during portfolio challenge mentoring by DareIT 
 
 [LINK to SQL tasks](https://docs.google.com/document/d/12xZZkjc8H5H3HmJNywY6TZvNIBp-W897xHJowaqo9Hk/edit?usp=share_link)
+
+:white_square_button: **HTML/CSS**
+* HTML/CSS - link to CV;tasks made during Maraton HTML+CSS by Goit
+
+[LINK to CV](https://incomparable-begonia-522852.netlify.app)
 
