@@ -3,16 +3,15 @@
 ## About me
 Hi :wave: My name is Justyna Jackiewicz.
 
-I am a fashion designer with over 7 years of experience, but my current lack of professional satisfaction has caused me the need for change.  Recently I have started to become interested in software testing.
+I am a fashion designer with over 7 years of experience, but I have recently felt the need to change my career path and have become interested in software testing.
 
-I am an ambitious person with strong interpersonal skills and empathy, which help me see the bigger picture and function well within a team. I also enjoy testing both myself and various solutions. I’m good at trying out new things and finding creative solutions.
+As an ambitious person with strong interpersonal skills and empathy, I can see the bigger picture and function well within a team. I also enjoy testing both myself and various solutions, and I am good at trying out new things and finding creative solutions.
 
-I would describe myself as a responsible, supportive and very creative person.  As a fashion designer I was in charge of a few apparel at a time so I needed to be attentive and well-organized.
+I would describe myself as responsible, supportive, and highly creative. As a fashion designer, I was in charge of several apparel designs at a time, which required me to be attentive and well-organized.
 
-My goal is to develop testing knowledge and technical skills.  Now looking for a position as junior testing.
+My goal is to develop my testing knowledge and technical skills, and I am currently looking for a position as a junior tester.
 
-In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during completing the testing courses and through self-learning.
-
+In this portfolio, I would like to share my testing knowledge and exhibit my technical skills, which I have gained through completing testing courses and self-learning.
 📫 E-mail **justyna.jackiewicz@live.com**
 
 ## Courses
