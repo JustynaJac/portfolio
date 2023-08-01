@@ -16,7 +16,6 @@ In this portfolio, I would like to share my testing knowledge and exhibit my tec
 📫 E-mail **justyna.jackiewicz@live.com**
 
 ## Courses
-* Zostań Testerem Manualnym (Dare IT)
 
 * Maraton HTML+CSS by Goit
 
@@ -24,7 +23,7 @@ In this portfolio, I would like to share my testing knowledge and exhibit my tec
 
 * Szkolenie SQL w 120 min (kursysql.pl)
   
-* Testy Automatyczne + Python
+* Wstęp do Testów Automatycznych - Testy Automatyczne + Python (Dare IT)
 
 ## Certificates
 
