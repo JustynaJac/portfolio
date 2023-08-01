@@ -56,6 +56,8 @@ In this portfolio, I would like to share my testing knowledge and exhibit my tec
 
 * PyCharm
 
+* Robot framework
+
 ## Tech skills
 * Software testing
 
